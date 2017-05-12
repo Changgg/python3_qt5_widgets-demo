@@ -4,7 +4,7 @@ from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5 import QtGui, QtPrintSupport, QtWidgets
 
 """
-QSplitter 组件演示
+QComboBox 组件演示
 """
 
 
